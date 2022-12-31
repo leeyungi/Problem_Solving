@@ -12,7 +12,7 @@
 ### Gold 3
 |  번호  |                         이름                         |                                                     코드                                                     |  알고리즘 분류   |                                                                 해설                                                                  |
 |:----:|:--------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:----------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
-|  ?   | [벽 부수고 지나가기](https://www.acmicpc.net/problem/2206) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold/Main_2206_벽부수고지나가기.java) | BFS, Graph | [Velog](https://velog.io/@yunlee/BOJ-2206%EB%B2%88-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0-Java) |   
+| 2206 | [벽 부수고 지나가기](https://www.acmicpc.net/problem/2206) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold/Main_2206_벽부수고지나가기.java) | BFS, Graph | [Velog](https://velog.io/@yunlee/BOJ-2206%EB%B2%88-%EB%B2%BD-%EB%B6%80%EC%88%98%EA%B3%A0-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0-Java) |   
 |  ?   |                       [?](?)                       |                                                 [Github]()                                                 |     -      |                                                              [Velog]()                                                              |   
 
 ### Gold 4
