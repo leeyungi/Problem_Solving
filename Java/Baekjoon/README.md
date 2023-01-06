@@ -17,10 +17,11 @@
 |  -   |                       [-](?)                       |                                                   [-]()                                                    |     -      |                                                                [-]()                                                                |   
 
 ### Gold 4
-|  번호  |                     이름                      |                                                  코드                                                   |   알고리즘 분류    |                                          해설                                          |
-|:----:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:------------:|:------------------------------------------------------------------------------------:|
-| 2141 | [우체국](https://www.acmicpc.net/problem/2141) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold/Main_2141_우체국.java) | Sort, Greedy | [Velog](https://velog.io/@yunlee/BOJ-2141%EB%B2%88-%EC%9A%B0%EC%B2%B4%EA%B5%AD-Java) |   
-|  -   |                   [-](?)                    |                                                 [-]()                                                 |      -       |                                        [-]()                                         |   
+|  번호  |                       이름                       |                                                   코드                                                   |   알고리즘 분류    |                                          해설                                          |
+|:----:|:----------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------:|:------------------------------------------------------------------------------------:|
+| 2141 |  [우체국](https://www.acmicpc.net/problem/2141)   | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold/Main_2141_우체국.java)  | Sort, Greedy | [Velog](https://velog.io/@yunlee/BOJ-2141%EB%B2%88-%EC%9A%B0%EC%B2%B4%EA%B5%AD-Java) |   
+| 2295 | [세 수의 합](https://www.acmicpc.net/problem/2295) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold/Main_2295_세수의합.java) |  Sort, 이분탐색  |                                        [-]()                                         |   
+|  -   |                     [-](?)                     |                                                 [-]()                                                  |      -       |                                        [-]()                                         |   
 
 ### Gold 5
 |  번호   |                        이름                        |                                                    코드                                                    |  알고리즘 분류  |                                             해설                                             |
