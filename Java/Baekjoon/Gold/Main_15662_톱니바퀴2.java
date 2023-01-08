@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class Main_15662_톱니바퀴2 {
@@ -14,15 +13,14 @@ public class Main_15662_톱니바퀴2 {
         StringTokenizer st = null;
 
         int T, K, answer = 0;
-        ArrayList<Integer> list[];
+        int gear[][];
 
         T = Integer.parseInt(br.readLine());
-        list = new ArrayList[T];
+        gear = new int[T][8];
         for (int i = 0; i < T; i++) {
             String s = br.readLine();
-            list[i] = new ArrayList<>();
             for (int j = 0; j < 8; j++) {
-                list[i].add(s.charAt(j) - '0');
+                gear[i][j] = (s.charAt(j) - '0');
             }
         }
 
@@ -34,23 +32,35 @@ public class Main_15662_톱니바퀴2 {
             turn[num] = Integer.parseInt(st.nextToken());
 
             for (int j = num; j < T - 1; j++) {
-                if (list[j].get(2) != list[j + 1].get(6)) turn[j + 1] = turn[j] * -1;
+                if (gear[j][2] != gear[j + 1][6]) turn[j + 1] = turn[j] * -1;
                 else break;
             }
 
             for (int j = num; 0 < j; j--) {
-                if (list[j].get(6) != list[j - 1].get(2)) turn[j - 1] = turn[j] * -1;
+                if (gear[j][6] != gear[j - 1][2]) turn[j - 1] = turn[j] * -1;
                 else break;
             }
 
             for (int j = 0; j < T; j++) {
-                if (turn[j] == -1) list[j].add(list[j].remove(0));
-                else if (turn[j] == 1) list[j].add(0, list[j].remove(7));
+                if (turn[j] == -1) {
+                    int temp = gear[j][0];
+                    for (int k = 0; k < 7; k++) {
+                        gear[j][k] = gear[j][k + 1];
+                    }
+                    gear[j][7] = temp;
+                }
+                else if (turn[j] == 1) {
+                    int temp = gear[j][7];
+                    for (int k = 7; 0 < k; k--) {
+                        gear[j][k] = gear[j][k - 1];
+                    }
+                    gear[j][0] = temp;
+                }
             }
         }
 
         for (int i = 0; i < T; i++) {
-            answer += list[i].get(0);
+            answer += gear[i][0];
         }
 
         bw.write(String.valueOf(answer));
