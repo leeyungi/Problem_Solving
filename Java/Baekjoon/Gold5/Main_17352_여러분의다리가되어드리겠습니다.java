@@ -12,6 +12,7 @@ public class Main_17352_여러분의다리가되어드리겠습니다 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringBuilder sb = new StringBuilder();
         StringTokenizer st = null;
 
         int N;
@@ -44,9 +45,10 @@ public class Main_17352_여러분의다리가되어드리겠습니다 {
             a = find(i);
             b = find(i + 1);
             if (a == b) continue;
-            bw.write(String.valueOf(a + 1) + " " + String.valueOf(b + 1));
+            sb.append(a + 1).append(" ").append(b + 1);
             break;
         }
+        bw.write(sb.toString());
         bw.flush();
         bw.close();
     }
