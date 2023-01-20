@@ -1,4 +1,4 @@
-package Java.Baekjoon.Gold;
+package Java.Baekjoon.Gold3;
 
 import java.io.*;
 import java.util.*;

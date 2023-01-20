@@ -1,4 +1,4 @@
-package Java.Baekjoon.Silver;
+package Java.Baekjoon.Silver2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

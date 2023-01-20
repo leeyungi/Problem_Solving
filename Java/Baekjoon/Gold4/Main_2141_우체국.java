@@ -1,4 +1,4 @@
-package Java.Baekjoon.Gold;
+package Java.Baekjoon.Gold4;
 
 import java.io.*;
 import java.util.PriorityQueue;
