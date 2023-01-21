@@ -30,11 +30,11 @@ public class Main_2565_전깃줄 {
         }
         Arrays.sort(node);
 
-        dp[0] = node[0].n2;
+        dp[0] = node[0].B;
         size = 0;
 
         for (int i = 1; i < N; i++) {
-            int num = node[i].n2;
+            int num = node[i].B;
             if (dp[size] < num) {
                 size++;
                 dp[size] = num;
@@ -67,15 +67,15 @@ public class Main_2565_전깃줄 {
     }
 }
 class node_2565 implements Comparable<node_2565>{
-    int n1, n2;
+    int A, B;
 
     node_2565(int n1, int n2) {
-        this.n1 = n1;
-        this.n2 = n2;
+        this.A = n1;
+        this.B = n2;
     }
 
     @Override
     public int compareTo(node_2565 n) {
-        return this.n1 - n.n1;
+        return this.A - n.A;
     }
 }
