@@ -4,14 +4,16 @@
 |  -  | [-](?) | [-]() |    -    | [-]() | 
 
 ### Platinum 5
-| 번호  |   이름   |  코드   | 알고리즘 분류 |  해설   |
-|:---:|:------:|:-----:|:-------:|:-----:|
-|  -  | [-](?) | [-]() |    -    | [-]() | 
+|  번호  |                      이름                      |                                                     코드                                                      | 알고리즘 분류 |  해설   |
+|:----:|:--------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------:|:-----:|
+| 2568 | [전깃줄2](https://www.acmicpc.net/problem/2568) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Platinum5/Main_2568_전깃줄2.java) |   LIS   | [-]() | 
+|  -   |                    [-](?)                    |                                                    [-]()                                                    |    -    | [-]() | 
 
 ### Gold 1
-| 번호  |   이름   |  코드   | 알고리즘 분류 |  해설   |
-|:---:|:------:|:-----:|:-------:|:-----:|
-|  -  | [-](?) | [-]() |    -    | [-]() | 
+|  번호  |                          이름                          |                                                     코드                                                      |        알고리즘 분류         |  해설   |
+|:----:|:----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:----------------------:|:-----:|
+| 1194 | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold1/Main_1194_달이차오른다가자.java) | BFS, Graph, BitMasking | [-]() | 
+|  -   |                        [-](?)                        |                                                    [-]()                                                    |           -            | [-]() | 
 
 ### Gold 2
 | 번호  |   이름   |  코드   | 알고리즘 분류 |  해설   |
@@ -25,6 +27,7 @@
 | 1600  | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold3/Main_1600_말이되고픈원숭이.java) |      BFS, Graph       | [Velog](https://velog.io/@yunlee/BOJ-1600%EB%B2%88-%EB%A7%90%EC%9D%B4-%EB%90%98%EA%B3%A0%ED%94%88-%EC%9B%90%EC%88%AD%EC%9D%B4-Java) |   
 | 2281  |    [데스노트](https://www.acmicpc.net/problem/2281)    |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold3/Main_2281_데스노트.java)   |          DP           |                                                                [-]()                                                                |   
 | 17135 |   [캐슬디펜스](https://www.acmicpc.net/problem/17135)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold3/Main_17135_캐슬디펜스.java)  | Graph, 구현, 시뮬레이션, BFS |                                                                [-]()                                                                |   
+| 2550  |     [전구](https://www.acmicpc.net/problem/2550)     |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold3/Main_2550_전구.java)    |        DP, LIS        |                                                                [-]()                                                                |   
 |   -   |                       [-](?)                       |                                                    [-]()                                                    |           -           |                                                                [-]()                                                                |   
 
 ### Gold 4
@@ -43,6 +46,7 @@
 | 16936 |        [나3곱2](https://www.acmicpc.net/problem/16936)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_16936_나3곱2.java)       |      Sort, 수학       |                                           [-]()                                            |   
 | 17352 | [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_17352_여러분의다리가되어드리겠습니다.java) | 자료구조, graph, 서로소 집합 |                                           [-]()                                            |   
 | 2011  |         [암호코드](https://www.acmicpc.net/problem/2011)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2011_암호코드.java)       |         DP          |                                           [-]()                                            |   
+| 2565  |         [전깃줄](https://www.acmicpc.net/problem/2565)          |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2565_전깃줄.java)        |         DP          |                                           [-]()                                            |   
 |   -   |                            [-](?)                            |                                                        [-]()                                                        |          -          |                                           [-]()                                            |   
 
 ### Silver 1
@@ -52,7 +56,8 @@
 |   -   |                     [-](?)                      |                                                    [-]()                                                    |    -    | [-]() |
 
 ### Silver 2
-| 번호  |   이름   |  코드   | 알고리즘 분류 |  해설   |
-|:---:|:------:|:-----:|:-------:|:-----:|
-|  -  | [-](?) | [-]() |    -    | [-]() |   
+|  번호   |                        이름                        |                                                      코드                                                       | 알고리즘 분류 |  해설   |
+|:-----:|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------:|:-----:|
+| 19583 | [싸이버개강총회](https://www.acmicpc.net/problem/19583) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_19583_싸이버개강총회.java) | 구현, 문자열 | [-]() |   
+|   -   |                      [-](?)                      |                                                     [-]()                                                     |    -    | [-]() |   
 
