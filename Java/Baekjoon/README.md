@@ -47,6 +47,7 @@
 | 17352 | [여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_17352_여러분의다리가되어드리겠습니다.java) | 자료구조, graph, 서로소 집합 |                                           [-]()                                            |   
 | 2011  |         [암호코드](https://www.acmicpc.net/problem/2011)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2011_암호코드.java)       |         DP          |                                           [-]()                                            |   
 | 2565  |         [전깃줄](https://www.acmicpc.net/problem/2565)          |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2565_전깃줄.java)        |         DP          |                                           [-]()                                            |   
+| 15922 |     [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)     |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_15922_아우으우아으이야.java)     |         스위핑         |                                           [-]()                                            |   
 |   -   |                            [-](?)                            |                                                        [-]()                                                        |          -          |                                           [-]()                                            |   
 
 ### Silver 1
