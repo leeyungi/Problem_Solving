@@ -32,11 +32,11 @@ public class Main_2568_전깃줄2 {
         }
         Arrays.sort(node);
 
-        dp[0] = node[0].n2;
+        dp[0] = node[0].B;
         size = 0;
 
         for (int i = 1; i < N; i++) {
-            int num = node[i].n2;
+            int num = node[i].B;
             if (dp[size] < num) {
                 size++;
                 dp[size] = num;
@@ -73,7 +73,7 @@ public class Main_2568_전깃줄2 {
             else size--;
         }
         for (int i = 0; i < N; i++) {
-            if (cut[i]) sb.append(node[i].n1).append("\n");
+            if (cut[i]) sb.append(node[i].A).append("\n");
         }
         bw.write(sb.toString());
         bw.flush();
@@ -81,16 +81,16 @@ public class Main_2568_전깃줄2 {
     }
 }
 class node_2568 implements Comparable<node_2568>{
-    int n1, n2;
+    int A, B;
 
     node_2568(int n1, int n2) {
-        this.n1 = n1;
-        this.n2 = n2;
+        this.A = n1;
+        this.B = n2;
     }
 
     @Override
     public int compareTo(node_2568 n) {
-        return this.n1 - n.n1;
+        return this.A - n.A;
     }
 }
 
