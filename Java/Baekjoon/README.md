@@ -50,6 +50,7 @@
 | 2011  |         [암호코드](https://www.acmicpc.net/problem/2011)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2011_암호코드.java)       |         DP          |                                           [-]()                                            |   
 | 2565  |         [전깃줄](https://www.acmicpc.net/problem/2565)          |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2565_전깃줄.java)        |         DP          |    [Velog](https://velog.io/@yunlee/BOJ-2565%EB%B2%88-%EC%A0%84%EA%B9%83%EC%A4%84Java)     |   
 | 15922 |     [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)     |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_15922_아우으우아으이야.java)     |         스위핑         |                                           [-]()                                            |   
+| 19942 |        [다이어트](https://www.acmicpc.net/problem/19942)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_19942_다이어트.java)       |     브루트포스, 백트래킹     |                                           [-]()                                            |   
 |   -   |                            [-](?)                            |                                                        [-]()                                                        |          -          |                                           [-]()                                            |   
 
 ### Silver 1
