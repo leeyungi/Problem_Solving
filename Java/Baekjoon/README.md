@@ -37,6 +37,7 @@
 | 2141  |  [우체국](https://www.acmicpc.net/problem/2141)   | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_2141_우체국.java)  | Sort, Greedy | [Velog](https://velog.io/@yunlee/BOJ-2141%EB%B2%88-%EC%9A%B0%EC%B2%B4%EA%B5%AD-Java) |   
 | 2295  | [세 수의 합](https://www.acmicpc.net/problem/2295) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_2295_세수의합.java) |  Sort, 이분탐색  |                                        [-]()                                         |   
 | 10836 |  [여왕벌](https://www.acmicpc.net/problem/10836)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_10836_여왕벌.java) |  구현, 시뮬레이션   |                                        [-]()                                         |   
+| 2157  |   [여행](https://www.acmicpc.net/problem/2157)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_2157_여행.java)  |      DP      |                                        [-]()                                         |   
 |   -   |                     [-](?)                     |                                                  [-]()                                                  |      -       |                                        [-]()                                         |   
 
 ### Gold 5
