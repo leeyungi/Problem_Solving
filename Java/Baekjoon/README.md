@@ -65,5 +65,6 @@
 |  번호   |                        이름                        |                                                      코드                                                       | 알고리즘 분류 |  해설   |
 |:-----:|:------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------:|:-----:|
 | 19583 | [싸이버개강총회](https://www.acmicpc.net/problem/19583) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_19583_싸이버개강총회.java) | 구현, 문자열 | [-]() |   
+| 2823  |  [유턴 싫어](https://www.acmicpc.net/problem/2823)   |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_2823_유턴싫어.java)   |  Graph  | [-]() |   
 |   -   |                      [-](?)                      |                                                     [-]()                                                     |    -    | [-]() |   
 
