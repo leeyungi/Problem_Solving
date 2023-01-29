@@ -56,10 +56,11 @@
 |   -   |                            [-](?)                            |                                                        [-]()                                                        |          -          |                                           [-]()                                            |   
 
 ### Silver 1
-|  번호   |                       이름                        |                                                     코드                                                      | 알고리즘 분류 |  해설   |
-|:-----:|:-----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-------:|:-----:|
-| 12026 | [BOJ 거리](https://www.acmicpc.net/problem/12026) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_12026_BOJ거리.java) |   DP    | [-]() |   
-|   -   |                     [-](?)                      |                                                    [-]()                                                    |    -    | [-]() |
+|  번호   |                       이름                        |                                                     코드                                                      |  알고리즘 분류  |  해설   |
+|:-----:|:-----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:---------:|:-----:|
+| 12026 | [BOJ 거리](https://www.acmicpc.net/problem/12026) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_12026_BOJ거리.java) |    DP     | [-]() |   
+| 2504  |  [괄호의 값](https://www.acmicpc.net/problem/2504)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_2504_괄호의값.java)  | Stack, 구현 | [-]() |
+|   -   |                     [-](?)                      |                                                    [-]()                                                    |     -     | [-]() |
 
 ### Silver 2
 |  번호   |                        이름                        |                                                      코드                                                       | 알고리즘 분류 |  해설   |
