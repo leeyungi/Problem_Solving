@@ -41,6 +41,7 @@
 | 1707  |  [이분그래프](https://www.acmicpc.net/problem/1707)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_1707_이분그래프.java)  |   Graph, BFS    |                                         [-]()                                          |   
 | 1753  |  [최단경로](https://www.acmicpc.net/problem/1753)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_1753_최단경로.java)  | Graph, Dijkstra |                                         [-]()                                          |   
 | 9663  | [N-Queen](https://www.acmicpc.net/problem/9663) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_9663_NQueen.java) |   브루트포스, 백트래킹   |                                         [-]()                                          |   
+| 14500 | [테트로미노](https://www.acmicpc.net/problem/14500)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_14500_테트로미노.java) |    구현, 브루트포스    |                                         [-]()                                          |   
 |   -   |                     [-](?)                      |                                                   [-]()                                                   |        -        |                                         [-]()                                          |   
 
 ### Gold 5
