@@ -72,5 +72,6 @@
 | 2823  |  [유턴 싫어](https://www.acmicpc.net/problem/2823)   |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_2823_유턴싫어.java)   |      Graph      | [-]() |   
 | 14627 |  [파닭파닭](https://www.acmicpc.net/problem/14627)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_14627_파닭파닭.java)   |      이분탐색       | [-]() |   
 | 4963  |   [섬의개수](https://www.acmicpc.net/problem/4963)   |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_4963_섬의개수.java)   | Graph, DFS, BFS | [-]() |   
+| 22233 | [가희와 키워드](https://www.acmicpc.net/problem/22233) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_22233_가희와키워드.java)  |     문자열, 파싱     | [-]() |   
 |   -   |                      [-](?)                      |                                                     [-]()                                                     |        -        | [-]() |   
 
