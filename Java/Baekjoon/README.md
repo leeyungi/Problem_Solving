@@ -42,7 +42,8 @@
 | 1753  |  [최단경로](https://www.acmicpc.net/problem/1753)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_1753_최단경로.java)  | Graph, Dijkstra |                                         [-]()                                          |   
 | 9663  | [N-Queen](https://www.acmicpc.net/problem/9663) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_9663_NQueen.java) |   브루트포스, 백트래킹   |                                         [-]()                                          |   
 | 14500 | [테트로미노](https://www.acmicpc.net/problem/14500)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_14500_테트로미노.java) |    구현, 브루트포스    |                                         [-]()                                          |   
-| 13701 |  [중복제거](https://www.acmicpc.net/problem/13701)  | [Giuhub](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_13701_중복제거.java)  |   비트마스킹, 비트집합   |                                         [-]()                                          |   
+| 13701 |  [중복제거](https://www.acmicpc.net/problem/13701)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_13701_중복제거.java)  |   비트마스킹, 비트집합   |                                         [-]()                                          |   
+| 1563  |   [개근상](https://www.acmicpc.net/problem/1563)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold4/Main_1563_개근상.java)   |       DP        |                                         [-]()                                          |   
 |   -   |                     [-](?)                      |                                                   [-]()                                                   |        -        |                                         [-]()                                          |   
 
 ### Gold 5
