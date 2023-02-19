@@ -8,6 +8,7 @@
 |   [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)    |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_나이정보가없는회원수구하기.sql)    |    IS NULL    |
 |      [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)       |     [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_가장비싼상품구하기.sql)      | SUM, MAX, MIN |
 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_흉부외과또는일반외과의사목록출력하기.sql) |    SELECT     |
+|  [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_12세이하인여자환자목록출력하기.sql)  |    SELECT     |
 |                                            [-]()                                            |                                                       [-]()                                                        |       -       |
 
 ### Level 2
