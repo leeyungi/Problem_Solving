@@ -12,10 +12,11 @@
 |                                            [-]()                                            |                                                       [-]()                                                        |       -       |
 
 ### Level 2
-|                                          이름                                          |                                                      코드                                                      | 알고리즘 분류 |
-|:------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:-------:|
-| [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_2/SQL_상품별오프라인매출구하기.sql) |  JOIN   |
-|                                        [-]()                                         |                                                    [-]()                                                     |    -    |
+|                                            이름                                            |                                                        코드                                                        | 알고리즘 분류  |
+|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|:--------:|
+|   [상품 별 오프라인 매출 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131533)   |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_2/SQL_상품별오프라인매출구하기.sql)   |   JOIN   |
+| [성분으로 구분한 아이스크름 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_2/SQL_성분우르구분한아이스크림총주문량.sql) | GROUP BY |
+|                                          [-]()                                           |                                                      [-]()                                                       |    -     |
 
 ### Level 3
 |  이름   |   코드   | 알고리즘 분류 |
