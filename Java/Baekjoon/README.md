@@ -61,6 +61,7 @@
 | 19942 |        [다이어트](https://www.acmicpc.net/problem/19942)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_19942_다이어트.java)       |     브루트포스, 백트래킹     |                                           [-]()                                            |   
 | 5430  |          [AC](https://www.acmicpc.net/problem/5430)          |        [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_5430_AC.java)        |     문자열, 구현, 덱      |                                           [-]()                                            |   
 | 2800  |         [괄호제거](https://www.acmicpc.net/problem/2800)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_2800_괄호제거.java)       |     스택, 재귀, 문자열     |                                           [-]()                                            |   
+| 14395 |         [4연산](https://www.acmicpc.net/problem/14395)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold5/Main_14395_4연산.java)       |     BFS, Graph      |                                           [-]()                                            |   
 |   -   |                            [-](?)                            |                                                        [-]()                                                        |          -          |                                           [-]()                                            |   
 
 ### Silver 1
