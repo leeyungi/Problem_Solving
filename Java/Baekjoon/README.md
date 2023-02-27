@@ -71,6 +71,7 @@
 | 12026 | [BOJ 거리](https://www.acmicpc.net/problem/12026) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_12026_BOJ거리.java) |    DP     | [-]() |   
 | 2504  |  [괄호의 값](https://www.acmicpc.net/problem/2504)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_2504_괄호의값.java)  | Stack, 구현 | [-]() |
 | 2156  | [포도주 시식](https://www.acmicpc.net/problem/2156)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_2156_포도주시식.java)  |    DP     | [-]() |
+| 1527  | [금민수의 개수](https://www.acmicpc.net/problem/1527) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver1/Main_1527_금민수의개수.java) |   브루트포스   | [-]() |
 |   -   |                     [-](?)                      |                                                    [-]()                                                    |     -     | [-]() |
 
 ### Silver 2
