@@ -11,7 +11,7 @@
 |  [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_12세이하인여자환자목록출력하기.sql)  |    SELECT     |
 |  [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_경기도에위치한식품창고목록출력하기.sql)  |    IS NULL    |
 |         [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)          |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_최댓값구하기.sql)       | SUM, MAX, MIN |
-|                                            [-]()                                            |                                                       [-]()                                                        |       -       |
+|  [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_강원도에위치한생산공장목록출력하기.sql)  |    SELECT     |
 
 ### Level 2
 |                                            이름                                            |                                                        코드                                                        | 알고리즘 분류  |
