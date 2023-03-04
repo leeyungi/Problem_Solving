@@ -85,5 +85,6 @@
 | 4963  |   [섬의개수](https://www.acmicpc.net/problem/4963)   |   [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_4963_섬의개수.java)   | Graph, DFS, BFS | [-]() |   
 | 22233 | [가희와 키워드](https://www.acmicpc.net/problem/22233) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_22233_가희와키워드.java)  |     문자열, 파싱     | [-]() |   
 | 14248 |  [점프점프](https://www.acmicpc.net/problem/14248)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_14248_점프점프.java)   | Graph, BFS, DFS | [-]() |   
+| 15810 |  [풍선공장](https://www.acmicpc.net/problem/15810)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_15810_풍선공장.java)   |      이분탐색       | [-]() |   
 |   -   |                      [-](?)                      |                                                     [-]()                                                     |        -        | [-]() |   
 
