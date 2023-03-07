@@ -14,6 +14,7 @@
 |  [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_강원도에위치한생산공장목록출력하기.sql)  |    SELECT     |
 |        [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_상위n개레코드.sql)       |    SELECT     |
 | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_특정옵션이포함된자동차리스트구하기.sql)  | String, Data  |
+|      [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)      |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_이름이있는동물의아이디.sql)     |    IS NULL    |
 |                                            [-]()                                            |                                                       [-]()                                                        |       -       |
 
 ### Level 2
