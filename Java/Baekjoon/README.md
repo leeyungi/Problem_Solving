@@ -21,6 +21,7 @@
 |:-----:|:---------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------:|:------:|
 | 21757 | [나누기](https://www.acmicpc.net/problem/21757)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold2/Main_21757_나누기.java) | DP, 누적합 | [-]()  | 
 | 2561  | [대표 선수](https://www.acmicpc.net/problem/2461) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold2/Main_2461_대표선수.java) |  두 포인터  | [-]()  | 
+| 14864 | [줄서기](https://www.acmicpc.net/problem/14864)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold2/Main_14864_줄서기.java) |  애드 혹   | [-]()  | 
 |   -   |                    [-](?)                     |                                                  [-]()                                                  |    -    | [-]()  | 
 
 ### Gold 3
