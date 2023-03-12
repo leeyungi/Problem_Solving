@@ -11,10 +11,11 @@
 |  -   |                    [-](?)                    |                                                    [-]()                                                    |    -    | [-]() | 
 
 ### Gold 1
-|  번호  |                          이름                          |                                                     코드                                                      |        알고리즘 분류         |    해설     |
-|:----:|:----------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:----------------------:|:---------:|
-| 1194 | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold1/Main_1194_달이차오른다가자.java) | BFS, Graph, BitMasking | [Velog](https://velog.io/@yunlee/BOJ-1194-%EB%8B%AC%EC%9D%B4-%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4-%EA%B0%80%EC%9E%90) | 
-|  -   |                        [-](?)                        |                                                    [-]()                                                    |           -            |   [-]()   | 
+|  번호   |                          이름                          |                                                      코드                                                      |        알고리즘 분류         |    해설     |
+|:-----:|:----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:----------------------:|:---------:|
+| 1194  | [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold1/Main_1194_달이차오른다가자.java)  | BFS, Graph, BitMasking | [Velog](https://velog.io/@yunlee/BOJ-1194-%EB%8B%AC%EC%9D%B4-%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4-%EA%B0%80%EC%9E%90) | 
+| 23290 | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Gold1/Main_23290_마법사상어와복제.java) |       구현, 시뮬레이션        |   [-]()   | 
+|   -   |                        [-](?)                        |                                                    [-]()                                                     |           -            |   [-]()   | 
 
 ### Gold 2
 |  번호   |                      이름                       |                                                   코드                                                    | 알고리즘 분류 |   해설   |
