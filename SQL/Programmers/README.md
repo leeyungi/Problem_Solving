@@ -16,6 +16,7 @@
 | [특정 옵션이 포함된 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)  | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_특정옵션이포함된자동차리스트구하기.sql)  | String, Data  |
 |      [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)      |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_이름이있는동물의아이디.sql)     |    IS NULL    |
 |       [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)       |     [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_여러기준으로정렬하기.sql)     |    SELECT     |
+|       [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)        |     [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_동물의아이디와이름.sql)      |    SELECT     |
 |                                            [-]()                                            |                                                       [-]()                                                        |       -       |
 
 ### Level 2
