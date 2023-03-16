@@ -19,6 +19,7 @@
 |       [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)        |     [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_동물의아이디와이름.sql)      |    SELECT     |
 |      [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)      |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_이름이없는동물의아이디.sql)     |    IS NULL    |
 |         [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_어린동물찾기.sql)       |    SELECT     |
+|         [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)         |       [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_아픈동물찾기.sql)       |    SELECT     |
 |                                            [-]()                                            |                                                       [-]()                                                        |       -       |
 
 ### Level 2
