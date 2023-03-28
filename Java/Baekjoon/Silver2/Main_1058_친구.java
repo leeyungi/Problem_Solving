@@ -30,8 +30,10 @@ public class Main_1058_친구 {
             int count = 0;
             while (!queue_friend.isEmpty()) {
                 int temp = queue_friend.poll();
-                count++;
-                visit[temp] = true;
+                if(!visit[temp]) {
+                    count++;
+                    visit[temp] = true;
+                }
                 for (int j = 0; j < N; j++) {
                     if (i == j || visit[j] || !friend[temp][j]) continue;
                     count++;
