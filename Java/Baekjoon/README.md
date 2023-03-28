@@ -94,6 +94,6 @@
 | 22233 | [가희와 키워드](https://www.acmicpc.net/problem/22233) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_22233_가희와키워드.java)  |     문자열, 파싱     | [-]() |   
 | 14248 |  [점프점프](https://www.acmicpc.net/problem/14248)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_14248_점프점프.java)   | Graph, BFS, DFS | [-]() |   
 | 15810 |  [풍선공장](https://www.acmicpc.net/problem/15810)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_15810_풍선공장.java)   |      이분탐색       | [-]() |   
-| 1138  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_1138_한줄로서기.java)   |        구현        | [-]() |   
-|   -   |                      [-](?)                      |                                                     [-]()                                                     |        -        | [-]() |   
+| 1138  | [한 줄로 서기](https://www.acmicpc.net/problem/1138)  |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_1138_한줄로서기.java)   |       구현        | [-]() |   
+| 1058  |    [친구](https://www.acmicpc.net/problem/1058)    |    [Github](https://github.com/leeyungi/Problem_Solving/blob/main/Java/Baekjoon/Silver2/Main_1058_친구.java)    | 브루트포스, 플로이드-워셜  | [-]() |   
 
