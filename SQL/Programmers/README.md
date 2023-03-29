@@ -26,7 +26,8 @@
 |        [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_모든레코드조회하기.sql)      |    SLELCT     |
 |        [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)         |      [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_모든레코드조회하기.sql)      |    SLELCT     |
 | [자동차 대여 기록에서 장기/단기 대여 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/151138) | [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_자동차대여기록에서장기단기대여구분하기.sql) | String, Date  |
-|                                           [-]()                                           |                                                      [-]()                                                       |       -       |
+|   [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)   |  [Github](https://github.com/leeyungi/Problem_Solving/blob/main/SQL/Programmers/Level_1/SQL_조건에부합하는중고거래댓글조회하기.sql)  |    SELECT     |
+|                                             [-]()                                             |                                                        [-]()                                                        |       -       |
 
 ### Level 2
 |                                            이름                                             |                                                        코드                                                        |    알고리즘 분류    |
